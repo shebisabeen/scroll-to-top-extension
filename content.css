@@ -1,0 +1,5 @@
+/*
+  Styles are now injected directly by content.js with !important flags
+  to prevent host-page CSS from interfering.
+  This file is kept as a fallback / placeholder only.
+*/
